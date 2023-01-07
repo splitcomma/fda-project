@@ -1,8 +1,32 @@
-# Assessment of Fundamentals of Data Analysis with Practicals and Project
+# Assessment of Fundamentals of Data Analysis with Practicals and Normal Distribution Project
 
-This repository contains a project including a dataset simulation and its analysis in Jupyter notebook.
+This repository contains a project about main concepts of **normal distribution** and its visualizations and practical exercises in Jupyter notebook.
+The practical exercises includes solution for exercises provided in practical folder.
 
-## How to run this Jupyter notebook
+#### Topics of the practical exercises:
+- Information
+- Randomness
+- Bias
+- Outliers
+- Cleasing
+
+## File structure of the project:
+
+```
+.
+├── LICENSE
+├── README.md
+├── assessment_normal_distribution
+│   └── normal_distribution_assessment.ipynb
+└── practicals
+    ├── 01-information-exercises.ipynb
+    ├── 02-randomness-exercises.ipynb
+    ├── 03-bias.ipynb
+    ├── 04-outliers.ipynb
+    └── 05-cleansing.ipynb
+```    
+
+## How to run Jupyter notebook
 
 ### Installation requirements:
 - [Python](https://www.pypa.io/en/latest/)
@@ -42,7 +66,10 @@ Run:
 python -m notebook
 ```
 
-Further references for installing and setup Jupyter at this [link](https://www.codecademy.com/article/setting-up-jupyter-notebook)
-Used reference for formatting README at this [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### References for README:
+
+- Further references for installing and setup Jupyter at this [link](https://www.codecademy.com/article/setting-up-jupyter-notebook)
+- Used reference for formatting README at this [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- What should include in README [link](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 
 
